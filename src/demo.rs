@@ -61,3 +61,5 @@ fn generate_frame(buffer: &mut Vec<u8>, width: usize, height: usize, r: u8, g: u
         }
     }
 }
+
+// Credits goes for u/kabocha_ from r/Rust
